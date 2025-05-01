@@ -13,6 +13,8 @@ This case study demonstrates how real-world global events influence migration tr
 
  # 📊 Visualizations Included
 
+ - ✅ Line Graph
+I compare immigration trends from the top 5 countries contributing the most immigrants to Canada
  - ✅ Stacked Area Plot – Top 5 Countries
 We transformed a basic line plot into a stacked area plot to better visualize cumulative trends in immigration from the top 5 contributing countries. Area plots
 are stacked by default in pandas.
